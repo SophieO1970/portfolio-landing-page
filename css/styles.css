@@ -1,0 +1,52 @@
+*{
+    background-color:grey;
+}
+a {
+    text-decoration: none;
+  }
+  
+  nav {
+    font-family: serif;
+  }
+  
+  nav>ul {
+    text-align: right;
+  }
+  
+  nav>ul>li {
+    display: inline-block;
+  }
+  
+  ul {
+    background:grey;
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+    text-align: left;
+  }
+  
+  li {
+    color:r;
+    background: blue;
+    display: inline-block;
+    padding: 1rem;
+    position: relative;
+    text-decoration: none;
+    transition-duration: 0.5s;
+  }
+  
+  li a {
+    color: #fff;
+  }
+  
+  li:hover {
+    background:grey;
+    cursor: pointer;
+  }
+  #image{
+      border: 2px solid grey;
+      
+  }
+#home>img{
+    padding-left: 600px;
+}
