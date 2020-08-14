@@ -45,13 +45,15 @@ a {
   }
   #image{
       border: 2px solid grey;
-      
+       
   }
 #home>img{
     padding-inlinegi: 600px;
+    border-radius: 50%;   
 }
 #home{
   text-align: center;
   font-size: medium;
 
 }
+* {box-sizing: border-box}
