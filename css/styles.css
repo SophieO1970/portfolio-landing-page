@@ -1,5 +1,5 @@
 *{
-    background-color:grey;
+    font-family: serif;
 }
 a {
     text-decoration: none;
@@ -25,7 +25,7 @@ a {
     text-align: left;
   }
   
-  li {
+  clali {
     color:r;
     background: blue;
     display: inline-block;
@@ -56,4 +56,11 @@ a {
   font-size: medium;
 
 }
-* {box-sizing: border-box}
+#about{
+  text-align: center;
+
+}
+.copyright{
+  text-align: center;
+  text-decoration-color: black;
+}
