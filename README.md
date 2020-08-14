@@ -1,9 +1,9 @@
 # ![portfolio-landing-page]
 # portfolio-landing-page
-<table>
+<table> 
 <tr>
 <td>
-  A portfolio-landing-page using Quandl API to display history of stock growth in a given period of time. It helps predict the growth of stocks from the  charts of stock performace in any period of time. It helps to judge stocks, with the principle of momentum investing, which returns 1% per month on average.
+  This is basically a portfolio website containing all about me i.e who i am, Education background, Work experience, Skills and Interest. It has different section namely name, about, education, skills, hobbies project and contact.
 </td>
 </tr>
 </table>
@@ -31,9 +31,8 @@ To fix a bug or enhance an existing module, follow these steps:
 
 ## Built with 
 
-- [jQuery - Ajax](http://www.w3schools.com/jquery/jquery_ref_ajax.asp) - jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development.
-- [Google Chart API](https://developers.google.com/chart/interactive/docs/quick_start) - Free , Rich Gallery , Customizable and Cross-browser compatible.
-- [Bootstrap](http://getbootstrap.com/) - Extensive list of components and  Bundled Javascript plugins.
+- [Html](https://www.w3schools.com/html/) - Html simplifies a document. It is the standard markup language for Web pages. With HTML you can create your own Website.
+- [Css](https://www.w3schools.com/css/) - Css language is used to style an HTML document. It describes how HTML elements should be displayed.
 
 ## Author
 
