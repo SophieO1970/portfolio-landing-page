@@ -1,4 +1,4 @@
-# ![portfolio-landing-page]
+# ![portfolio-landing-page](images/image.png)
 # portfolio-landing-page
 <table> 
 <tr>
