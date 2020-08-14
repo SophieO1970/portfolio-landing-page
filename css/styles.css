@@ -47,6 +47,11 @@ a {
       border: 2px solid grey;
       
   }
-/* #home>img{
-    padding-left: 600px;
-} */
+#home>img{
+    padding-inlinegi: 600px;
+}
+#home{
+  text-align: center;
+  font-size: medium;
+
+}
