@@ -65,17 +65,26 @@ a {
   text-align: center;
   text-decoration-color: black;
 }
-.education{
-
+#education{
+  text-align: center;
+  font-size: medium;
+  background-color:grey;
+  border: 2px;
 }
-.skills{
+#skills{
   text-align: center;
   font-size: medium;
   background-color:aqua;
   border: 2px;
 }
-.Hobbies{
+#Hobbies{
   text-align: center;
+  font-size: medium;
+  background-color:grey;
+  border: 2px;
+}
+#contact{
+  text-align: left;
   font-size: medium;
   background-color:grey;
   border: 2px;
