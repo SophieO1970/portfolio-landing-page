@@ -121,3 +121,12 @@ a {
 .row{
   background-color: aquamarine;
 }
+h2{
+  color:brown;
+}
+#project{
+  text-align: left;
+  font-size: medium;
+  background-color:aquamarine;
+  border: 2px;
+}
