@@ -7,10 +7,11 @@ a {
   
   nav {
     font-family: serif;
+    background-color: black;
   }
   
   nav>ul {
-    text-align: right;
+    text-align: center;
   }
   
   nav>ul>li {
@@ -32,7 +33,7 @@ a {
     padding: 1rem;
     position: relative;
     text-decoration: none;
-    transition-duration: 0.5s;
+    /* transition-duration: 0.5s; */
   }
   
   li a {
