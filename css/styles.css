@@ -27,13 +27,11 @@ a {
   }
   
   li {
-    color:r;
     background-color: black;
     display: inline-block;
     padding: 1rem;
     position: relative;
-    text-decoration: none;
-    /* transition-duration: 0.5s; */
+    text-decoration: none; 
   }
   
   li a {
@@ -49,13 +47,13 @@ a {
        
   }
 #home>img{
-    padding-inlinegi: 600px;
+    padding-inline: 600px;
     border-radius: 50%;   
 }
 .home{
   text-align: center;
   font-size: medium;
-  background-color: grey;
+  background-color:aquamarine;
   border: 2px;
 }
 #about{
@@ -69,7 +67,7 @@ a {
 #education{
    text-align: center;
   font-size: medium;
-  background-color:grey;
+  background-color:aquamarine;
   border: 2px;
 }
 #skills{
@@ -78,22 +76,22 @@ a {
   background-color:aqua;
   border: 2px;
 }
-#Hobbies{
+#hobbies{
   text-align: center;
   font-size: medium;
-  background-color:grey;
+  background-color:aqua;
   border: 2px;
 }
 #about{
   text-align: left;
   font-size: medium;
-  background-color:grey;
+  background-color:aquamarine;
   border: 2px;
 }
 #contact{
   text-align: left;
   font-size: medium;
-  background-color:grey;
+  background-color:aquamarine;
   border: 2px;
 }
 .contact{
