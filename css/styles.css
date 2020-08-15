@@ -27,7 +27,7 @@ a {
   
   li {
     color:r;
-    background: blue;
+    background-color: black;
     display: inline-block;
     padding: 1rem;
     position: relative;
@@ -99,4 +99,26 @@ a {
   text-align: left;
   font-size: medium;
   background-color:aqua;
+}
+/* creating columns */
+* {
+  box-sizing: border-box;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.row{
+  background-color: aquamarine;
 }
