@@ -83,6 +83,12 @@ a {
   background-color:grey;
   border: 2px;
 }
+#about{
+  text-align: left;
+  font-size: medium;
+  background-color:grey;
+  border: 2px;
+}
 #contact{
   text-align: left;
   font-size: medium;
