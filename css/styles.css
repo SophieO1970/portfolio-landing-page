@@ -51,10 +51,11 @@ a {
     padding-inlinegi: 600px;
     border-radius: 50%;   
 }
-#home{
+.home{
   text-align: center;
   font-size: medium;
-
+  background-color: grey;
+  border: 2px;
 }
 #about{
   text-align: center;
@@ -63,4 +64,10 @@ a {
 .copyright{
   text-align: center;
   text-decoration-color: black;
+}
+.skills{
+  text-align: center;
+  font-size: medium;
+  background-color:aqua;
+  border: 2px;
 }
