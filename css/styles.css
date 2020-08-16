@@ -1,3 +1,148 @@
+
 body{
     background-color: aqua;
+  }
+
+*{
+    font-family: serif;
+}
+a {
+    text-decoration: none;
+  }
+  
+  nav {
+    font-family: serif;
+    background-color: black;
+  }
+  
+  nav>ul {
+    text-align: center;
+  }
+  
+  nav>ul>li {
+    display: inline-block;
+  }
+  
+  ul {
+    background:grey;
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+    text-align: left;
+  }
+  
+  li {
+    background-color: black;
+    display: inline-block;
+    padding: 1rem;
+    position: relative;
+    text-decoration: none; 
+  }
+  
+  li a {
+    color: #fff;
+  }
+  
+  li:hover {
+    background:grey;
+    cursor: pointer;
+  }
+  #image{
+      border: 2px solid grey;
+       
+  }
+#home>img{
+    padding-inline: 600px;
+    border-radius: 50%;   
+}
+.home{
+  text-align: center;
+  font-size: medium;
+  background-color:aquamarine;
+  border: 2px;
+}
+#about{
+  text-align: center;
+
+}
+.copyright{
+  text-align: center;
+  text-decoration-color: black;
+}
+#education{
+   text-align: center;
+  font-size: medium;
+  background-color:aquamarine;
+  border: 2px;
+}
+#skills{
+  text-align: center;
+  font-size: medium;
+  background-color:aqua;
+  border: 2px;
+}
+#hobbies{
+  text-align: center;
+  font-size: medium;
+  background-color:aqua;
+  border: 2px;
+}
+#about{
+  text-align: left;
+  font-size: medium;
+  background-color:aquamarine;
+  border: 2px;
+}
+#contact{
+  text-align: left;
+  font-size: medium;
+  background-color:aquamarine;
+  border: 2px;
+}
+.contact{
+  text-align: left;
+  font-size: medium;
+  background-color:aqua;
+}
+/* creating columns */
+* {
+  box-sizing: border-box;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: auto; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.row{
+  background-color: aquamarine;
+}
+h2{
+  color:brown;
+}
+#project{
+  text-align: left;
+  font-size: medium;
+  background-color:aquamarine;
+  border: 2px;
+}
+@media screen and (min-width: 480px) and (max-width: 767px) {
+  body {
+      background-color: black;
+      color: white;
+  }
+}
+@media screen and (min-width: 768px) {
+body {
+  background-color: maroon;
+}
 }
